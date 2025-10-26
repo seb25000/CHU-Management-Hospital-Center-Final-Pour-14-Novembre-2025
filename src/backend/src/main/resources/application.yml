@@ -1,0 +1,80 @@
+# Configuration Spring Boot
+server:
+  port: 8080
+  servlet:
+    context-path: /
+
+spring:
+  # Configuration Base de données PostgreSQL
+  datasource:
+    url: jdbc:postgresql://localhost:5432/chu_management
+    username: ${DB_USERNAME:chu_user}
+    password: ${DB_PASSWORD:chu_password}
+    driver-class-name: org.postgresql.Driver
+    hikari:
+      maximum-pool-size: 10
+      minimum-idle: 5
+      connection-timeout: 20000
+
+  # Configuration JPA/Hibernate
+  jpa:
+    hibernate:
+      ddl-auto: create-drop # create-drop pour dev, validate pour prod
+    show-sql: true
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        format_sql: true
+        use_sql_comments: true
+    open-in-view: false
+
+  # Configuration CORS
+  web:
+    cors:
+      allowed-origins: 
+        - "http://localhost:5173"
+        - "http://localhost:3000"
+        - "http://127.0.0.1:5173"
+      allowed-methods: 
+        - GET
+        - POST
+        - PUT
+        - DELETE
+        - OPTIONS
+        - PATCH
+      allowed-headers: "*"
+      allow-credentials: true
+      max-age: 3600
+
+  # Configuration Security
+  security:
+    jwt:
+      secret: ${JWT_SECRET:chu_management_secret_key_2024_very_long_and_secure}
+      expiration: ${JWT_EXPIRATION:86400000} # 24 heures en millisecondes
+
+# Configuration Logging
+logging:
+  level:
+    com.chu.management: DEBUG
+    org.springframework.security: DEBUG
+    org.springframework.web: DEBUG
+    org.hibernate.SQL: DEBUG
+    org.hibernate.type.descriptor.sql.BasicBinder: TRACE
+
+# Configuration Management
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,metrics
+  endpoint:
+    health:
+      show-details: always
+
+# Configuration Application
+app:
+  name: CHU Management Center
+  version: 1.0.0
+  admin:
+    email: admin@chu-management.fr
+    password: ${ADMIN_PASSWORD:Admin@123}

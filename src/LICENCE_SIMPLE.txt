@@ -1,0 +1,126 @@
+================================================================================
+                    CHU MANAGEMENT HOSPITAL CENTER
+                          LICENCE SIMPLIFIÉE
+================================================================================
+
+📜 LICENCE : MIT License
+©️  COPYRIGHT : 2025 CHU Management Hospital Center
+🗓️  DATE : Octobre 2025
+
+================================================================================
+                          CE QUE VOUS POUVEZ FAIRE
+================================================================================
+
+✅ UTILISER commercialement (vendre des services, produits, licences)
+✅ MODIFIER le code source comme vous voulez
+✅ DISTRIBUER le code (original ou modifié)
+✅ UTILISER en privé (usage interne uniquement)
+✅ SUBLICENCIER (créer des licences pour vos clients)
+
+💰 PAS DE REDEVANCES - Gardez 100% de vos revenus
+🚀 PAS DE RESTRICTIONS commerciales
+🔓 CODE OUVERT ou FERMÉ - Votre choix
+
+================================================================================
+                         CE QUE VOUS DEVEZ FAIRE
+================================================================================
+
+📄 INCLURE le fichier LICENSE dans toute distribution du code source
+©️  CONSERVER les mentions de copyright dans le code
+✍️  MENTIONNER la licence MIT si vous redistribuez
+
+C'EST TOUT ! Seulement 3 obligations simples.
+
+================================================================================
+                    CE QUE VOUS N'AVEZ PAS À FAIRE
+================================================================================
+
+❌ Partager vos modifications (vous pouvez les garder privées)
+❌ Publier votre code (version fermée autorisée)
+❌ Payer des redevances (utilisation gratuite)
+❌ Demander la permission (liberté totale)
+❌ Mentionner dans l'interface utilisateur (sauf code source)
+
+================================================================================
+                           LIMITATIONS
+================================================================================
+
+⚠️  AUCUNE GARANTIE - Le logiciel est fourni "tel quel"
+⚠️  AUCUNE RESPONSABILITÉ - L'auteur n'est pas responsable des dommages
+⚠️  PAS DE SUPPORT obligatoire - Support optionnel de votre part
+
+================================================================================
+                          EXEMPLES CONCRETS
+================================================================================
+
+✅ Vendre à des hôpitaux pour 50 000€ → AUTORISÉ
+✅ Créer une version SaaS à 99€/mois → AUTORISÉ
+✅ Intégrer dans votre ERP propriétaire → AUTORISÉ
+✅ Garder vos modifications secrètes → AUTORISÉ
+✅ Changer complètement le design → AUTORISÉ
+✅ Revendre sous une autre marque → AUTORISÉ
+
+================================================================================
+                      QUESTIONS FRÉQUENTES
+================================================================================
+
+Q: Puis-je utiliser ce code pour gagner de l'argent ?
+R: OUI ✅ Utilisation commerciale illimitée
+
+Q: Dois-je partager mes modifications ?
+R: NON ❌ Vos modifications peuvent rester privées
+
+Q: Y a-t-il des redevances à payer ?
+R: NON ❌ Utilisation 100% gratuite
+
+Q: Puis-je changer la licence pour mes clients ?
+R: OUI ✅ Vous pouvez sublicencier comme vous voulez
+
+Q: Qui est responsable en cas de bug ?
+R: PERSONNE ⚠️ Aucune garantie ni responsabilité
+
+Q: Puis-je retirer la mention de copyright ?
+R: NON ❌ Les mentions de copyright doivent rester
+
+================================================================================
+                        OÙ TROUVER PLUS D'INFOS
+================================================================================
+
+📄 LICENSE                  → Texte légal officiel complet
+📖 COPYRIGHT.md             → Détails sur vos droits
+📋 LICENCE_RESUME.md        → FAQ complète et tableaux
+🏆 PROPRIETE_ET_DROITS.md   → Guide stratégique business
+📝 NOTICE                   → Attributions des bibliothèques
+📚 DOCUMENTS_LICENCE_INDEX  → Navigation entre tous les docs
+🏅 BADGES.md                → Badges pour README/site web
+
+================================================================================
+                           RÉSUMÉ ULTRA-RAPIDE
+================================================================================
+
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                          │
+│  ✅ CE CODE VOUS APPARTIENT                                              │
+│  ✅ VOUS POUVEZ TOUT FAIRE AVEC (même commercial)                        │
+│  ✅ PAS DE REDEVANCES, PAS DE RESTRICTIONS                               │
+│  📄 JUSTE GARDER LA LICENCE MIT DANS LE CODE SOURCE                     │
+│  ⚠️  AUCUNE GARANTIE - TESTEZ AVANT D'UTILISER                           │
+│                                                                          │
+└─────────────────────────────────────────────────────────────────────────┘
+
+================================================================================
+                              CONTACT
+================================================================================
+
+Propriétaire : Sébastien.D : CHU Management Hospital Center
+Licence : MIT License (https://opensource.org/licenses/MIT)
+Documentation complète : Voir fichiers COPYRIGHT.md et LICENCE_RESUME.md
+
+Pour conseil juridique : Consultez un avocat spécialisé en propriété intellectuelle
+
+================================================================================
+                    PROFITEZ DE VOTRE PROJET ! 🚀
+================================================================================
+
+Date de création : Octobre 2025
+Version du document : 1.0
